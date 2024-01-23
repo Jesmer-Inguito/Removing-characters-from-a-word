@@ -8,4 +8,7 @@ print("The word you've chosen is", word)
 
 # Cut the chosen word "word[n:]", can change the n to different numbers
 edited = word[3:]
+
 # Print results
+print("Removing characters from the chosen word")
+print(edited)
